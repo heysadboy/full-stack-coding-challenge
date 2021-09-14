@@ -1,7 +1,5 @@
 ## Getting Started
 
-The app is designed to work out of the box.
-
 ```shell
 yarn install
 yarn dev
